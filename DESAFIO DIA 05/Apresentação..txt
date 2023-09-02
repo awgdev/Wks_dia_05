@@ -1,0 +1,15 @@
+Gráfico 1: Gráfico de Barras - Região vs. Homicídio Doloso e Homicídio Culposo
+Neste gráfico de barras, apresentamos uma análise da incidência de homicídios dolosos e homicídios culposos em diferentes regiões. As barras no eixo X representam as regiões, enquanto as alturas das barras no eixo Y representam o número de crimes. Isso nos permite comparar visualmente como a incidência desses dois tipos de homicídios varia entre as regiões. Os homicídios dolosos geralmente envolvem intenção, enquanto os homicídios culposos são acidentais, o que pode ser uma informação importante para a análise da segurança nas regiões.
+
+Gráfico 2: Gráfico de Rosca - Distribuição de Crimes (Homicídio Culposo, Homicídio Doloso, Latrocínio, Roubos e Furtos)
+Este gráfico de rosca oferece uma visão geral da distribuição de vários tipos de crimes em um determinado período. As fatias do gráfico de rosca representam a proporção de cada tipo de crime em relação ao total. Os dados incluem homicídio culposo, homicídio doloso, latrocínio, roubos e furtos. Isso nos permite identificar quais tipos de crimes são mais predominantes e quais podem exigir atenção específica em relação à segurança pública.
+
+Gráfico 3: Gráfico de Pizza - Percentual de Homicídio Culposo e Homicídio Doloso (Ano Selecionado)
+Este gráfico de pizza é uma representação visual da distribuição percentual de homicídios culposos e homicídios dolosos em um ano específico selecionado. Ele fornece uma visão instantânea da proporção desses dois tipos de homicídios em relação ao total de homicídios ocorridos naquele ano. Isso pode ser útil para destacar a gravidade dos casos acidentais (homicídio culposo) em comparação com os homicídios intencionais (homicídio doloso) em um período específico.
+
+Gráfico 4: Gráfico de Linha - Tendência de Homicídio Culposo e Homicídio Doloso ao Longo dos Anos
+Neste gráfico de linha, apresentamos a tendência ao longo dos anos para homicídio culposo e homicídio doloso. Cada linha no gráfico representa a evolução desses dois tipos de homicídios. Isso nos permite identificar tendências temporais, como aumentos ou diminuições, e entender como a criminalidade desses dois tipos tem variado ao longo do tempo. A análise dessas tendências pode ser valiosa para a formulação de políticas de segurança pública e estratégias de prevenção de crimes.
+
+
+
+Por fim também adicionei um Slicer para podermos manipular os gráficos para algum ano específico entre 2003-2019.
